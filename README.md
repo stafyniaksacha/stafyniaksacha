@@ -1,4 +1,4 @@
-### Hi there ![👋](https://www.google-analytics.com/collect?v=1&tid=UA-172455843-1&uid=github&dp=/)
+### Hi there 👋 ![⚡](https://www.google-analytics.com/collect?v=1&tid=UA-172455843-1&uid=github&dp=/)
 
 <!--
 **stafyniaksacha/stafyniaksacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
