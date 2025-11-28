@@ -10,9 +10,11 @@
 
 ### 🚀 Computing history that keeps me humble:
 
-**Apollo 11** landed on the moon with **4KB of RAM** and **72KB of ROM**. Your smartwatch has more computing power than the entire Apollo program.
+**Apollo 11** landed on the moon with **4KB of RAM** and **72KB of ROM**.  
+Your smartwatch has more computing power than the entire Apollo program.
 
-**Punch cards** stored a whopping **80 bytes** per card. A single selfie today would require approximately **50,000 punch cards** stacked 16 feet high.
+**Punch cards** stored a whopping **80 bytes** per card.  
+A single selfie today would require approximately **50,000 punch cards** stacked 16 feet high.
 ```      
                        /~\      Making computers do bi bop
                       |oo )     since the early 2000s
