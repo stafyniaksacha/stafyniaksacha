@@ -13,14 +13,20 @@
 **Apollo 11** landed on the moon with **4KB of RAM** and **72KB of ROM**. Your smartwatch has more computing power than the entire Apollo program.
 
 **Punch cards** stored a whopping **80 bytes** per card. A single selfie today would require approximately **50,000 punch cards** stacked 16 feet high.
-```
-    .--.
-   |o_o |    Making computers do bi bop
-   |:_/ |    since the early 2000s
-  //   \ \   
- (|     | )  Fun fact: `telnet towel.blinkenlights.nl`
-/'\_   _/`\  to watch Star Wars in ASCII
-\___)=(___/  
+```      
+                       /~\      Making computers do bi bop
+                      |oo )     since the early 2000s
+                      _\=/_
+      ___            /  _  \    Fun fact: `telnet towel.blinkenlights.nl`
+     /() \          //|/.\|\\   to watch Star Wars in ASCII
+   _|_____|_        \\ \_/  ||
+  | | === | |        \|\ /| ||
+  |_|  O  |_|        # _ _/  #
+   ||  O  ||          | | |
+   ||__*__||          | |
+  |~ \___/ ~|         []|[]
+  /=\ /=\ /=\         | | |
+__[_]_[_]_[_]________/_]_[_\______________________________________________
 ```
 
 ---
