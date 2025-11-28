@@ -34,4 +34,4 @@ __[_]_[_]_[_]________/_]_[_\______________________________________________
 ---
 *Currently building my own future (one bug at a time)*
 
-*PS: May the Force be with your deployments* ⚔️
+*PS: May the Force be with your ~deployments~ automation* ⚔️
